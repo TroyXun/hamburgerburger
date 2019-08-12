@@ -1,38 +1,29 @@
-# OREOOO!
+# HAMBURGERBURGER!
 
-Is this your Oreooo?
-这是你的奥利奥利奥吗？
+Is this your Hamburgerburger?
+这是你的汉堡包堡包吗？
 
-![ScreenShot](assets/screenshot.png)
+![ScreenShot](assets/image/screenshot.png)
 
-
-
-[Demo](https://ddiu8081.github.io/oreooo/)
-
-[Blog](https://blog.ddiu.site/oreooo/)
-
-
+[Demo](https://vigorouspro.github.io/hamburgerburger)
 
 ## Keyboard shortcuts
 
-| Key       | Description                        |
-| --------- | ---------------------------------- |
-| o / r     | Input 'O' or 'RE' |
+| Key       | Description             |
+| --------- | ----------------------- |
+| h / b / g | Input 'H' or 'B' or 'G' |
 | - / Space | Input space             |
-| Enter     | Generate                
-| Backspace | Back                        |
+| Enter     | Generate                |
+| Backspace | Back                    |
 
 ## Contributing a translation
 
-The text in Oreooo is in Chinese by default. You can translate it in your language. Just edit your language pack in `assets/js/oreo.js` and  `pull requests` to me. Thanks!
+The text in Hamburger is in Chinese by default. You can translate it in your language. Just edit your language pack in `assets/js/hamburger.js` and `pull requests` to me. Thanks!
 
 ## License
 
-MIT
+© MIT
 
-## Other Site
+## Forked from
 
-[firedom/oreo-lang](https://github.com/firedom/oreo-lang)
-
-[syt123450/oreo-3d](https://github.com/syt123450/oreo-3d)
-
+[ddiu8081/oreooo](https://github.com/ddiu8081/oreooo)

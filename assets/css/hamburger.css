@@ -7,26 +7,8 @@
     user-select: none;
 }
 
-@font-face {
-    font-family: "Seto";
-    src: url("../font/Seto.eot");
-    /* IE9 */
-    src: url("../font/Seto.eot?#iefix") format("embedded-opentype"),
-        /* IE6-IE8 */
-
-        url("../font/Seto.woff") format("woff"),
-        /* chrome、firefox */
-        url("../font/Seto.ttf") format("truetype"),
-        /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
-
-        url("../font/Seto.svg#Seto") format("svg");
-    /* iOS 4.1- */
-    font-style: normal;
-    font-weight: normal;
-}
-
 body {
-    font-family: "Seto";
+    font-family: 'Gamja Flower','ZCOOL KuaiLe','Kosugi Maru', cursive, 'Microsoft YaHei UI', sans-serif;
     padding: 0;
     margin: 0;
     color: #515151;
@@ -165,8 +147,6 @@ a:hover {
     text-align: left;
     padding: 5px 8px;
     border-radius: 6px;
-
-    /* 定位 */
     position: absolute;
     z-index: 1;
     top: 36px;
